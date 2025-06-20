@@ -21,7 +21,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sameer_.0904)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sameerprajapati0904@gmail.com)
 
-## 📊 GitHub Stats
+## 💼 What I Actually Do
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameer-0904&show_icons=true&theme=tokyonight)
+My current focus is on:
+
+- 📊 Data Analytics with Python, SQL, Power BI
+- 🤖 AI/ML Projects using Pandas, scikit-learn, and deep learning frameworks
+- 📚 Learning through real-world datasets and building insightful dashboards
+
 
