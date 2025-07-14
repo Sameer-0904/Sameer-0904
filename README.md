@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sameer Prajapati
 ## 🚀Computer Engineering Student | Data Analytics | AI/ML learner
 
@@ -18,7 +17,6 @@
 ## 🚀 Projects
 
 ### 🎬 Movie Recommendation System
-![Movie Recommendation System]
 
 A content-based recommendation system built using Python in Google Colab. Uses TF-IDF and cosine similarity to suggest movies based on description similarity.
 
