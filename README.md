@@ -15,6 +15,23 @@
 - 📊 Analyzing sentiment from customer reviews using Python & SQL
 - 🧠 My favourite Project is Jarvis assistant. It is an intermediate assistant
 
+## 🚀 Projects
+
+### 🎬 Movie Recommendation System
+![Movie Recommendation System](https://i.imgur.com/KC9y6vG.png)
+
+A content-based recommendation system built using Python in Google Colab. Uses TF-IDF and cosine similarity to suggest movies based on description similarity.
+
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-blueviolet)
+
+📂 [View Notebook](#)  
+🧠 Libraries used: `difflib`, `TfidfVectorizer`, `cosine_similarity`  
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-prajapati-944ab928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
