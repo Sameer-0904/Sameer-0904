@@ -18,7 +18,7 @@
 ## 🚀 Projects
 
 ### 🎬 Movie Recommendation System
-![Movie Recommendation System](https://i.imgur.com/KC9y6vG.png)
+![Movie Recommendation System]
 
 A content-based recommendation system built using Python in Google Colab. Uses TF-IDF and cosine similarity to suggest movies based on description similarity.
 
@@ -26,9 +26,7 @@ A content-based recommendation system built using Python in Google Colab. Uses T
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-blueviolet)
-
-📂 [View Notebook](#)  
+  
 🧠 Libraries used: `difflib`, `TfidfVectorizer`, `cosine_similarity`  
 
 
