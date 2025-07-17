@@ -33,14 +33,6 @@ This is my **first deployed Machine Learning model** using **Streamlit**. The ap
 
 🔗 **Live App**: [https://diabetespredictivesystem.streamlit.app/](https://diabetespredictivesystem.streamlit.app/)
 
-## ✅ Features
-
-- Clean and simple Streamlit UI
-- User input form for medical parameters
-- Real-time prediction using trained model
-- Lightweight and fast
-- Easy to use – No coding knowledge needed
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-prajapati-944ab928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
