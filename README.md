@@ -33,6 +33,13 @@ This is my **first deployed Machine Learning model** using **Streamlit**. The ap
 
 🔗 **Live App**: [https://diabetespredictivesystem.streamlit.app/](https://diabetespredictivesystem.streamlit.app/)
 
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b?logo=streamlit&logoColor=white)
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-prajapati-944ab928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
