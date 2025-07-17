@@ -27,6 +27,19 @@ A content-based recommendation system built using Python in Google Colab. Uses T
   
 🧠 Libraries used: `difflib`, `TfidfVectorizer`, `cosine_similarity`  
 
+# 🩺 Diabetes Prediction System
+
+This is my **first deployed Machine Learning model** using **Streamlit**. The application predicts whether a person is diabetic or not based on user input values such as Glucose level, BMI, Age, and more.
+
+🔗 **Live App**: [https://diabetespredictivesystem.streamlit.app/](https://diabetespredictivesystem.streamlit.app/)
+
+## ✅ Features
+
+- Clean and simple Streamlit UI
+- User input form for medical parameters
+- Real-time prediction using trained model
+- Lightweight and fast
+- Easy to use – No coding knowledge needed
 
 ## 🔗 Connect with Me
 
