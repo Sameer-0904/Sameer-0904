@@ -54,6 +54,6 @@ My current focus is on:
 - 🤖 AI/ML Projects using Pandas, scikit-learn, and deep learning frameworks
 - 📚 Learning through real-world datasets and building insightful dashboards
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-0904&layout=compact&theme=dark)
 
 
