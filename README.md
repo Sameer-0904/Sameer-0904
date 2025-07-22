@@ -31,7 +31,7 @@ A content-based recommendation system built using Python in Google Colab. Uses T
 
 This is my **first deployed Machine Learning model** using **Streamlit**. The application predicts whether a person is diabetic or not based on user input values such as Glucose level, BMI, Age, and more.
 
-🔗 **Live App**: [https://diabetespredictivesystem.streamlit.app/](https://diabetespredictivesystem.streamlit.app/)
+🔗 **Live App**: (https://predict-diabetes-risk.streamlit.app/)
 
 **Tech Stack**  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
