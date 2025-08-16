@@ -39,6 +39,19 @@ This is my **first deployed Machine Learning model** using **Streamlit**. The ap
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b?logo=streamlit&logoColor=white)
 
+## Aura AI
+
+**Basic LLM App** is a simple AI project built with **Gemini 2.5 Flash**.  
+It combines four key features in one place:  
+- 💬 Chatbot  
+- 🖼️ Image Captioning  
+- 🔎 Text Embeddings  
+- ❓ Ask Me Anything  
+
+This project is meant as a **beginner-friendly LLM playground** and a base for future AI assistants.
+🔗 **Live App**: [Aura AI](https://aura-ai-webapp.streamlit.app/)
+**Note**: It will not show the outputs because I removed my API key.
+
 
 ## 🔗 Connect with Me
 
