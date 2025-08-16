@@ -50,7 +50,7 @@ It combines four key features in one place:
 
 This project is meant as a **beginner-friendly LLM playground** and a base for future AI assistants.
 
-🔗 **Live App**: [Aura AI](https://aura-ai-webapp.streamlit.app/)
+🔗 **Live App**: [Aura AI](https://aura-assist.streamlit.app/)
 
 **Note**: It will not show the outputs because I removed my API key.
 
