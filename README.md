@@ -49,7 +49,9 @@ It combines four key features in one place:
 - ❓ Ask Me Anything  
 
 This project is meant as a **beginner-friendly LLM playground** and a base for future AI assistants.
+
 🔗 **Live App**: [Aura AI](https://aura-ai-webapp.streamlit.app/)
+
 **Note**: It will not show the outputs because I removed my API key.
 
 
