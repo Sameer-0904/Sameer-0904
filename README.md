@@ -52,8 +52,6 @@ This project is meant as a **beginner-friendly LLM playground** and a base for f
 
 🔗 **Live App**: [Aura AI](https://aura-assist.streamlit.app/)
 
-**Note**: It will not show the outputs because I removed my API key.
-
 
 ## 🔗 Connect with Me
 
