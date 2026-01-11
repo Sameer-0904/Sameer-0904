@@ -85,7 +85,36 @@ I have built several projects — links, short descriptions, and language compos
 
 ---
 
-## 📫 Get in touch
-- Email: sameerprajapati0904@gmail.com
-- GitHub: [@Sameer-0904](https://github.com/Sameer-0904)
-- LinkedIn: [Sameer Prajapati](https://www.linkedin.com/in/sameer-prajapati-944ab928b)
+## 📫 Get in Touch
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="mailto:sameerprajapati0904@gmail.com">
+        <img src="https://img.icons8.com/color/96/gmail-new.png" width="60" alt="Email"/><br/>
+        <b>Email</b><br/>
+        <sub>sameerprajapati0904@gmail.com</sub>
+      </a>
+    </td>
+
+    <td align="center" width="250">
+      <a href="https://github.com/Sameer-0904" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/github.png" width="60" alt="GitHub"/><br/>
+        <b>GitHub</b><br/>
+        <sub>@Sameer-0904</sub>
+      </a>
+    </td>
+
+    <td align="center" width="250">
+      <a href="https://www.linkedin.com/in/sameer-prajapati-944ab928b" target="_blank">
+        <img src="https://img.icons8.com/color/96/linkedin.png" width="60" alt="LinkedIn"/><br/>
+        <b>LinkedIn</b><br/>
+        <sub>Sameer Prajapati</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
