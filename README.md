@@ -20,7 +20,6 @@ I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data 
 - Reproducible experiments and MLOps: experiment tracking, model versioning, containerized deployments, and lightweight APIs to serve models.
 - Comfortable using tools like TensorFlow/Keras, MLflow, Docker, FastAPI, Jupyter/Colab, and AWS for development and deployment.
 
-I enjoy turning messy data into actionable models and iterating reproducible experiments that produce reliable results. I’m continuously learning and applying new techniques — currently focused on backpropagation mechanics, training stability, and transformer applications.
 
 ---
 
@@ -79,10 +78,11 @@ I have built several projects — links, short descriptions, and language compos
 | Project | Description | Languages |
 |---|---|---|
 | [Diabetes-Predictor](https://github.com/Sameer-0904/Projects/tree/main) | Machine learning–based diabetes prediction system using medical features, with data preprocessing, feature scaling, model training, and evaluation. | ![python](https://img.shields.io/badge/Python-100%25-3572A5?style=for-the-badge&logo=python&logoColor=white)
-| [MLOPs-Project](https://github.com/Sameer-0904/MLOPs-Project) | End-to-end MLOps project with dashboards and reproducible experiment notebooks. | ![css](https://img.shields.io/badge/CSS-71.8%25-563d7c?style=for-the-badge&logo=css3&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-14.4%25-ffd43b?style=for-the-badge) ![python](https://img.shields.io/badge/Python-8.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![html](https://img.shields.io/badge/HTML-4.8%25-e34c26?style=for-the-badge&logo=html5&logoColor=white) |
-| [AI-Application](https://github.com/Sameer-0904/AI-Application) | Full-stack AI application combining a JavaScript frontend with Python model components and APIs. | ![js](https://img.shields.io/badge/JavaScript-62.2%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/Python-30.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![css](https://img.shields.io/badge/CSS-6.7%25-563d7c?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-0.5%25-e34c26?style=for-the-badge&logo=html5&logoColor=white) |
 | [Data-Analytics-Projects](https://github.com/Sameer-0904/Data-Analytics-Projects) | Collection of data analysis and visualization notebooks covering EDA, statistical analysis, and reporting. | ![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-98.9%25-ffd43b?style=for-the-badge) ![python](https://img.shields.io/badge/Python-1.1%25-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 | [RAG](https://github.com/Sameer-0904/RAG) | Retrieval-Augmented Generation experiments and components, primarily Python with a lightweight JavaScript interface. | ![python](https://img.shields.io/badge/Python-81.7%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-18.3%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) |
+| [MLOPs-Project](https://github.com/Sameer-0904/MLOPs-Project) | End-to-end MLOps project with dashboards and reproducible experiment notebooks. | ![css](https://img.shields.io/badge/CSS-71.8%25-563d7c?style=for-the-badge&logo=css3&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-14.4%25-ffd43b?style=for-the-badge) ![python](https://img.shields.io/badge/Python-8.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![html](https://img.shields.io/badge/HTML-4.8%25-e34c26?style=for-the-badge&logo=html5&logoColor=white) |
+| [AI-Application](https://github.com/Sameer-0904/AI-Application) | Full-stack AI application combining a JavaScript frontend with Python model components and APIs. | ![js](https://img.shields.io/badge/JavaScript-62.2%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/Python-30.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![css](https://img.shields.io/badge/CSS-6.7%25-563d7c?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-0.5%25-e34c26?style=for-the-badge&logo=html5&logoColor=white) |
+
 
 ---
 
