@@ -73,54 +73,17 @@ Below are short descriptions for the above tools:
 - Experiment tracking and reproducible pipelines
 
 ## 💡 Projects
-I have built several projects. Below are links and short descriptions for the repositories I mentioned, with language composition shown in compact cards:
 
-<div align="center">
-  <div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;max-width:1000px;">
+I have built several projects — links, short descriptions, and language composition shown with badges:
 
-    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
-      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/MLOPs-Project">MLOPs-Project</a></h3>
-      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">End-to-end MLOps project with dashboards and reproducible experiment notebooks.</p>
-      <div style="display:flex;flex-wrap:wrap;gap:6px;">
-        <span style="background:#563d7c;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">CSS 71.8%</span>
-        <span style="background:#ffd43b;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">Jupyter Notebook 14.4%</span>
-        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 8.6%</span>
-        <span style="background:#e34c26;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">HTML 4.8%</span>
-      </div>
-    </div>
+| Project | Description | Languages |
+|---|---|---|
+| [MLOPs-Project](https://github.com/Sameer-0904/MLOPs-Project) | End-to-end MLOps project with dashboards and reproducible experiment notebooks. | ![css](https://img.shields.io/badge/CSS-71.8%25-563d7c?style=for-the-badge&logo=css3&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-14.4%25-ffd43b?style=for-the-badge) ![python](https://img.shields.io/badge/Python-8.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![html](https://img.shields.io/badge/HTML-4.8%25-e34c26?style=for-the-badge&logo=html5&logoColor=white) |
+| [AI-Application](https://github.com/Sameer-0904/AI-Application) | Full-stack AI application combining a JavaScript frontend with Python model components and APIs. | ![js](https://img.shields.io/badge/JavaScript-62.2%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/Python-30.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![css](https://img.shields.io/badge/CSS-6.7%25-563d7c?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML-0.5%25-e34c26?style=for-the-badge&logo=html5&logoColor=white) |
+| [Data-Analytics-Projects](https://github.com/Sameer-0904/Data-Analytics-Projects) | Collection of data analysis and visualization notebooks covering EDA, statistical analysis, and reporting. | ![jupyter](https://img.shields.io/badge/Jupyter%20Notebook-98.9%25-ffd43b?style=for-the-badge) ![python](https://img.shields.io/badge/Python-1.1%25-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [RAG](https://github.com/Sameer-0904/RAG) | Retrieval-Augmented Generation experiments and components, primarily Python with a lightweight JavaScript interface. | ![python](https://img.shields.io/badge/Python-81.7%25-3572A5?style=for-the-badge&logo=python&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-18.3%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) |
 
-    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
-      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/AI-Application">AI-Application</a></h3>
-      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">Full-stack AI application combining a JavaScript frontend with Python model components and APIs.</p>
-      <div style="display:flex;flex-wrap:wrap;gap:6px;">
-        <span style="background:#f1e05a;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">JavaScript 62.2%</span>
-        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 30.6%</span>
-        <span style="background:#563d7c;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">CSS 6.7%</span>
-        <span style="background:#e34c26;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">HTML 0.5%</span>
-      </div>
-    </div>
-
-    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
-      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/Data-Analytics-Projects">Data-Analytics-Projects</a></h3>
-      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">Collection of data analysis and visualization notebooks covering EDA, statistical analysis, and reporting.</p>
-      <div style="display:flex;flex-wrap:wrap;gap:6px;">
-        <span style="background:#ffd43b;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">Jupyter Notebook 98.9%</span>
-        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 1.1%</span>
-      </div>
-    </div>
-
-    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
-      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/RAG">RAG</a></h3>
-      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">Retrieval-Augmented Generation experiments and components, primarily Python with a lightweight JavaScript interface.</p>
-      <div style="display:flex;flex-wrap:wrap;gap:6px;">
-        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 81.7%</span>
-        <span style="background:#f1e05a;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">JavaScript 18.3%</span>
-      </div>
-    </div>
-
-  </div>
-</div>
-
+---
 
 ## 📫 Get in touch
 - Email: sameerprajapati0904@gmail.com
