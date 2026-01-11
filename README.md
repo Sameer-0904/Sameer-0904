@@ -11,9 +11,11 @@ I'm learning Deep Learning — focused on foundations, CNNs, transformers, and r
 ---
 
 ## 🚀 About Me
-- Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
-- Currently learning Deep Learning: focusing on foundations, CNNs, transformers, training best practices, and evaluation.
-- Built several ML/DL projects — I'll add links and short descriptions when you share them.
+- Passionate about Artificial Intelligence, Machine Learning, and Deep Learning, with hands-on experience in data analytics and classical machine learning.
+- Currently learning Deep Learning in depth: backpropagation, neural networks (MLPs), convolutional neural networks (CNNs), vision transformers, optimization and regularization techniques, and reproducible experiment design.
+- Skilled in data analytics workflows including data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, and data visualization.
+- Comfortable building end-to-end models using scikit-learn and TensorFlow/Keras, and deploying models with Docker and FastAPI.
+- Focused on experiment tracking, model evaluation, and making ML workflows reproducible using tools like MLflow.
 
 ---
 
@@ -22,7 +24,7 @@ I'm learning Deep Learning — focused on foundations, CNNs, transformers, and r
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></a>
   <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-%23000000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a[...]
 </p>
 
 <p align="center">
@@ -60,7 +62,7 @@ Below are short descriptions for the above tools:
 ---
 
 ## 🎯 Currently Learning
-- Deep Learning fundamentals: optimization, regularization, architectures
+- Deep Learning fundamentals: backpropagation, optimization, regularization, and architectures
 - CNNs and Vision Transformers
 - Transformer-based models for NLP
 - Experiment tracking and reproducible pipelines
