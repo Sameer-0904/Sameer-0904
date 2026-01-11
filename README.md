@@ -4,7 +4,9 @@
 
 ### AI • ML • Deep Learning Enthusiast
 
-I'm learning Deep Learning — focused on foundations, CNNs, transformers, and reproducible experiments. I have built several projects (links below).
+I'm an AI/ML enthusiast building a strong foundation in machine learning and deep learning.
+Currently exploring neural networks, CNNs, and transformer-based architectures.
+I focus on clean experiments, solid evaluation, and reproducible results.
 
 </div>
 
