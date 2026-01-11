@@ -6,13 +6,6 @@
     I'm learning Deep Learning — focused on foundations, CNNs, transformers, and reproducible experiments. I have built several projects (links below once you provide them).
   </p>
 
-  <!-- GitHub stats and top languages -->
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameer-0904&show_icons=true&theme=tokyonight&hide_border=true" alt="Sameer's GitHub stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-0904&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </p>
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -20,9 +13,7 @@
 - Currently learning Deep Learning: focusing on foundations, CNNs, transformers, training best practices, and evaluation.
 - Built several ML/DL projects — I'll add links and short descriptions when you share them.
 
-## 🛠️ Tools I Use (cards)
-Below are the main tools and libraries I work with presented as cards for a clean, visual layout.
-
+## 🛠️ Tools I Use
 <table>
   <tr>
     <td align="center" width="220">
@@ -161,6 +152,6 @@ I have built several projects. Replace these placeholders with your project name
 - [nlp-transformer-playground](#) — Transformer-based approaches for classification and sequence tasks.
 
 ## 📫 Get in touch
-- Email: youremail@example.com
+- Email: sameerprajapati0904@gmail.com
 - GitHub: [@Sameer-0904](https://github.com/Sameer-0904)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sameer-prajapati-944ab928b)
+- LinkedIn: [Sameer Prajapati](https://www.linkedin.com/in/sameer-prajapati-944ab928b)
