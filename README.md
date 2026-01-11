@@ -11,11 +11,16 @@ I'm learning Deep Learning — focused on foundations, CNNs, transformers, and r
 ---
 
 ## 🚀 About Me
-- Passionate about Artificial Intelligence, Machine Learning, and Deep Learning, with hands-on experience in data analytics and classical machine learning.
-- Currently learning Deep Learning in depth: backpropagation, neural networks (MLPs), convolutional neural networks (CNNs), vision transformers, optimization and regularization techniques, and reproducible experiment design.
-- Skilled in data analytics workflows including data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, and data visualization.
-- Comfortable building end-to-end models using scikit-learn and TensorFlow/Keras, and deploying models with Docker and FastAPI.
-- Focused on experiment tracking, model evaluation, and making ML workflows reproducible using tools like MLflow.
+I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data analytics and classical machine learning, and currently deepening my expertise in deep learning. I work across the full ML lifecycle: collecting and cleaning data, exploratory data analysis (EDA), feature engineering, model development, evaluation, and deploying reproducible solutions.
+
+- Strong foundation in data analytics: data cleaning, EDA, statistical analysis, and visualization using NumPy, pandas, matplotlib, and seaborn.
+- Practical experience with classical ML workflows (scikit-learn): model selection, cross-validation, feature engineering, and hyperparameter tuning.
+- Deep learning focus: understanding and implementing backpropagation and neural networks (MLPs), convolutional neural networks (CNNs), and transformer-based architectures for vision and NLP.
+- Emphasis on training best practices: optimization, regularization, loss design, and careful evaluation (metrics, error analysis, calibration).
+- Reproducible experiments and MLOps: experiment tracking, model versioning, containerized deployments, and lightweight APIs to serve models.
+- Comfortable using tools like TensorFlow/Keras, MLflow, Docker, FastAPI, Jupyter/Colab, and AWS for development and deployment.
+
+I enjoy turning messy data into actionable models and iterating reproducible experiments that produce reliable results. I’m continuously learning and applying new techniques — currently focused on backpropagation mechanics, training stability, and transformer applications.
 
 ---
 
@@ -68,11 +73,12 @@ Below are short descriptions for the above tools:
 - Experiment tracking and reproducible pipelines
 
 ## 💡 Projects
-I have built several projects. Replace these placeholders with your project names and links (I can add them for you):
+I have built several projects. Below are links and short descriptions for the repositories I mentioned:
 
-- [project-vision-experiments](#) — Experiments with CNNs and vision transformers.
-- [ml-pipeline-template](#) — End-to-end pipeline: data, training, evaluation, and simple deployment.
-- [nlp-transformer-playground](#) — Transformer-based approaches for classification and sequence tasks.
+- [MLOPs-Project](https://github.com/Sameer-0904/MLOPs-Project) — End-to-end MLOps project with dashboards and reproducible experiment notebooks. Languages: CSS (71.8%), Jupyter Notebook (14.4%), Python (8.6%), HTML (4.8%).
+- [AI-Application](https://github.com/Sameer-0904/AI-Application) — Full-stack AI application combining a JavaScript frontend with Python model components and APIs. Languages: JavaScript (62.2%), Python (30.6%), CSS (6.7%), HTML (0.5%).
+- [Data-Analytics-Projects](https://github.com/Sameer-0904/Data-Analytics-Projects) — Collection of data analysis and visualization notebooks covering EDA, statistical analysis, and reporting. Languages: Jupyter Notebook (98.9%), Python (1.1%).
+- [RAG](https://github.com/Sameer-0904/RAG) — Retrieval-Augmented Generation experiments and components, primarily Python with a lightweight JavaScript interface. Languages: Python (81.7%), JavaScript (18.3%).
 
 ## 📫 Get in touch
 - Email: sameerprajapati0904@gmail.com
