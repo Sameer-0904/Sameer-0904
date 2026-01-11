@@ -11,7 +11,7 @@ I'm learning Deep Learning — focused on foundations, CNNs, transformers, and r
 ---
 
 ## 🚀 About Me
-I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data analytics and classical machine learning, and currently deepening my expertise in deep learning. I work across the full ML lifecycle: collecting and cleaning data, exploratory data analysis (EDA), feature engineering, model development, evaluation, and deploying reproducible solutions.
+I'm Sameer Prajapati - an AI/ML practitioner with hands-on experience in data analytics and classical machine learning, and currently deepening my expertise in deep learning. I work across the full ML lifecycle: collecting and cleaning data, exploratory data analysis (EDA), feature engineering, model development, evaluation, and deploying reproducible solutions.
 
 - Strong foundation in data analytics: data cleaning, EDA, statistical analysis, and visualization using NumPy, pandas, matplotlib, and seaborn.
 - Practical experience with classical ML workflows (scikit-learn): model selection, cross-validation, feature engineering, and hyperparameter tuning.
