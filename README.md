@@ -4,7 +4,7 @@
 
 ### AI • ML • Deep Learning Enthusiast
 
-I'm learning Deep Learning — focused on foundations, CNNs, transformers, and reproducible experiments. I have built several projects (links below once you provide them).
+I'm learning Deep Learning — focused on foundations, CNNs, transformers, and reproducible experiments. I have built several projects (links below).
 
 </div>
 
@@ -29,7 +29,7 @@ I enjoy turning messy data into actionable models and iterating reproducible exp
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></a>
   <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-%23000000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a[...]
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
 </p>
 
 <p align="center">
@@ -73,12 +73,54 @@ Below are short descriptions for the above tools:
 - Experiment tracking and reproducible pipelines
 
 ## 💡 Projects
-I have built several projects. Below are links and short descriptions for the repositories I mentioned:
+I have built several projects. Below are links and short descriptions for the repositories I mentioned, with language composition shown in compact cards:
 
-- [MLOPs-Project](https://github.com/Sameer-0904/MLOPs-Project) — End-to-end MLOps project with dashboards and reproducible experiment notebooks. Languages: CSS (71.8%), Jupyter Notebook (14.4%), Python (8.6%), HTML (4.8%).
-- [AI-Application](https://github.com/Sameer-0904/AI-Application) — Full-stack AI application combining a JavaScript frontend with Python model components and APIs. Languages: JavaScript (62.2%), Python (30.6%), CSS (6.7%), HTML (0.5%).
-- [Data-Analytics-Projects](https://github.com/Sameer-0904/Data-Analytics-Projects) — Collection of data analysis and visualization notebooks covering EDA, statistical analysis, and reporting. Languages: Jupyter Notebook (98.9%), Python (1.1%).
-- [RAG](https://github.com/Sameer-0904/RAG) — Retrieval-Augmented Generation experiments and components, primarily Python with a lightweight JavaScript interface. Languages: Python (81.7%), JavaScript (18.3%).
+<div align="center">
+  <div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;max-width:1000px;">
+
+    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
+      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/MLOPs-Project">MLOPs-Project</a></h3>
+      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">End-to-end MLOps project with dashboards and reproducible experiment notebooks.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;">
+        <span style="background:#563d7c;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">CSS 71.8%</span>
+        <span style="background:#ffd43b;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">Jupyter Notebook 14.4%</span>
+        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 8.6%</span>
+        <span style="background:#e34c26;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">HTML 4.8%</span>
+      </div>
+    </div>
+
+    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
+      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/AI-Application">AI-Application</a></h3>
+      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">Full-stack AI application combining a JavaScript frontend with Python model components and APIs.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;">
+        <span style="background:#f1e05a;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">JavaScript 62.2%</span>
+        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 30.6%</span>
+        <span style="background:#563d7c;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">CSS 6.7%</span>
+        <span style="background:#e34c26;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">HTML 0.5%</span>
+      </div>
+    </div>
+
+    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
+      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/Data-Analytics-Projects">Data-Analytics-Projects</a></h3>
+      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">Collection of data analysis and visualization notebooks covering EDA, statistical analysis, and reporting.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;">
+        <span style="background:#ffd43b;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">Jupyter Notebook 98.9%</span>
+        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 1.1%</span>
+      </div>
+    </div>
+
+    <div style="border:1px solid #e1e4e8;border-radius:10px;padding:14px;width:280px;text-align:left;box-shadow:0 1px 3px rgba(27,31,35,0.04);">
+      <h3 style="margin:0 0 6px 0;font-size:18px;"><a href="https://github.com/Sameer-0904/RAG">RAG</a></h3>
+      <p style="margin:0 0 10px 0;color:#333;font-size:13px;">Retrieval-Augmented Generation experiments and components, primarily Python with a lightweight JavaScript interface.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;">
+        <span style="background:#3572A5;color:white;padding:6px 8px;border-radius:999px;font-size:12px;">Python 81.7%</span>
+        <span style="background:#f1e05a;color:#111;padding:6px 8px;border-radius:999px;font-size:12px;">JavaScript 18.3%</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
 
 ## 📫 Get in touch
 - Email: sameerprajapati0904@gmail.com
