@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B2447,100:19376D&height=360&section=header&text=Sameer%20Prajapati&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20•%20DSA%20Enthusiast%20•%20Problem%20Solver&descAlignY=56" />
+</div>
+
+<div align="center">
 
 # Hi 👋 I'm Sameer Prajapati
 
