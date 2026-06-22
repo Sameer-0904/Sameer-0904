@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B2447,100:19376D&height=360&section=header&text=Sameer%20Prajapati&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B2447,100:19376D&height=360&section=header&text=Sameer%20Prajapati&fontSize=80&fontColor=ffffff&fontAli[...]" />
 </div>
 
 <div align="center">
@@ -16,14 +16,14 @@ I'm an AI/ML practitioner building a strong foundation in machine learning and d
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00A1FF&width=700&lines=Building+end-to-end+AI+systems;Experimenting+with+RAG+and+Transformers;Orchestrating+reproducible+ML+pipelines)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00A1FF&width=700&lines=Building+end-to-end+AI+systems;Experimenting+with+RAG+and+Transformers;Orchestrating+reproducible+ML+pipe[...])
 
 </div>
 
 ---
 
 ## 🚀 About Me
-I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data analytics and classical machine learning, now deepening expertise in deep learning. I work across the full lifecycle: data, modeling, evaluation, and deployment.
+I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data analytics and classical machine learning, now deepening expertise in deep learning. I work across the full lifecycle[
 
 - Strong foundation in data analytics: data cleaning, EDA, statistical analysis, and visualization using NumPy, pandas, matplotlib, and seaborn.
 - Practical experience with classical ML workflows (scikit-learn): model selection, cross-validation, feature engineering, and hyperparameter tuning.
@@ -38,7 +38,7 @@ I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data 
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-%2300BCD4.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
 </p>
 
@@ -62,8 +62,8 @@ Below are two highlighted projects with both the repository link and a live demo
 
 | Project | Description | Live Demo |
 |---|---|---|
-| [Gita-AI-Platform](https://github.com/Sameer-0904/Gita-AI-Platform) | An end-to-end AI platform that brings together data ingestion, indexing, RAG experiments, model training, and lightweight serving. The repository contains modular components for data preprocessing, vector indexing, retrieval pipelines, experiment notebooks, and deployment examples (FastAPI + Docker). Ideal for R&D on retrieval-augmented generation and rapid prototyping of NLP-powered apps. | <a href="https://gitaguidance.app/" target="_blank" title="Gita Guidance Live Demo"><img src="https://gitaguidance.app/favicon.ico" alt="Gita Guidance" width="22" height="22" style="vertical-align:middle;"/> Live Demo</a> |
-| [OrchestraML](https://github.com/Sameer-0904/OrchestraML) | A lightweight orchestration toolkit and set of examples for building reproducible ML pipelines. OrchestraML focuses on composing data processing, model training, evaluation, and deployment steps, with utilities for experiment tracking, containerized tasks, and simple scheduling. The repository contains templates, CI examples, and demo pipelines to help accelerate production-ready ML workflows. | <a href="https://orchestra-ml.vercel.app/" target="_blank" title="OrchestraML Live Demo"><img src="https://orchestra-ml.vercel.app/favicon.ico" alt="OrchestraML" width="22" height="22" style="vertical-align:middle;"/> Live Demo</a> |
+| [Gita-AI-Platform](https://github.com/Sameer-0904/Gita-AI-Platform) | <img src="https://raw.githubusercontent.com/Sameer-0904/Gita-AI-Platform/main/gita-rag-frontend/public/logo.png" alt="Gita Guidance" width="280"/><br/>An end-to-end AI platform that brings together data ingestion, indexing, RAG experiments, model training, and lightweight services. | [Demo](https://gitaguidance.app) |
+| [OrchestraML](https://github.com/Sameer-0904/OrchestraML) | <img src="https://raw.githubusercontent.com/Sameer-0904/OrchestraML/main/frontend/public/favicon.png" alt="OrchestraML" width="120"/><br/>A lightweight orchestration toolkit and set of examples for building reproducible ML pipelines. OrchestraML focuses on composing data, training and deployment steps into reusable templates. | [Demo](https://orchestra-ml.vercel.app) |
 
 ---
 
