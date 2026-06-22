@@ -76,12 +76,6 @@ Below are two main projects I maintain. I replaced the previous projects list to
   <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Sameer-0904&theme=github" alt="contribution-snake" />
 </p>
 
-### Year goals (progress)
-- [x] Project skeletons created
-- [x] RAG pipeline experiments
-- [x] Orchestration templates and CI examples
-- [x] Containerized deployment examples
-
 ### LeetCode
 <p align="center">
   <!-- LeetCode dynamic card (third-party) -->
@@ -113,6 +107,3 @@ Below are two main projects I maintain. I replaced the previous projects list to
   </a>
 </p>
 
----
-
-<p align="center">Made with ❤️ — if you want this README further customized (different animations, colors, or additional projects), tell me which style and I'll apply it.</p>
