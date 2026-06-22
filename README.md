@@ -58,12 +58,12 @@ I'm Sameer Prajapati — an AI/ML practitioner with hands-on experience in data 
 
 ## 💡 Projects
 
-Below are two main projects I maintain. I replaced the previous projects list to focus on the active, public repositories I use as highlights. If you'd like other repos added back in, tell me which ones and I will include them.
+Below are two highlighted projects with both the repository link and a live demo (website icon used for the demo link).
 
-| Project | Description | Tech & Links |
+| Project | Description | Live Demo |
 |---|---|---|
-| [Gita-AI-Platform](https://github.com/Sameer-0904/Gita-AI-Platform) | An end-to-end AI platform that brings together data ingestion, indexing, RAG experiments, model training, and lightweight serving. The repository contains modular components for data preprocessing, vector indexing, retrieval pipelines, experiment notebooks, and deployment examples (FastAPI + Docker). Ideal for R&D on retrieval-augmented generation and rapid prototyping of NLP-powered apps. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) [Repo](https://github.com/Sameer-0904/Gita-AI-Platform) |
-| [OrchestraML](https://github.com/Sameer-0904/OrchestraML) | A lightweight orchestration toolkit and set of examples for building reproducible ML pipelines. OrchestraML focuses on composing data processing, model training, evaluation, and deployment steps, with utilities for experiment tracking, containerized tasks, and simple scheduling. The repository contains templates, CI examples, and demo pipelines to help accelerate production-ready ML workflows. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions) [Repo](https://github.com/Sameer-0904/OrchestraML) |
+| [Gita-AI-Platform](https://github.com/Sameer-0904/Gita-AI-Platform) | An end-to-end AI platform that brings together data ingestion, indexing, RAG experiments, model training, and lightweight serving. The repository contains modular components for data preprocessing, vector indexing, retrieval pipelines, experiment notebooks, and deployment examples (FastAPI + Docker). Ideal for R&D on retrieval-augmented generation and rapid prototyping of NLP-powered apps. | <a href="https://gitaguidance.app/" target="_blank" title="Gita Guidance Live Demo"><img src="https://gitaguidance.app/favicon.ico" alt="Gita Guidance" width="22" height="22" style="vertical-align:middle;"/> Live Demo</a> |
+| [OrchestraML](https://github.com/Sameer-0904/OrchestraML) | A lightweight orchestration toolkit and set of examples for building reproducible ML pipelines. OrchestraML focuses on composing data processing, model training, evaluation, and deployment steps, with utilities for experiment tracking, containerized tasks, and simple scheduling. The repository contains templates, CI examples, and demo pipelines to help accelerate production-ready ML workflows. | <a href="https://orchestra-ml.vercel.app/" target="_blank" title="OrchestraML Live Demo"><img src="https://orchestra-ml.vercel.app/favicon.ico" alt="OrchestraML" width="22" height="22" style="vertical-align:middle;"/> Live Demo</a> |
 
 ---
 
@@ -72,13 +72,23 @@ Below are two main projects I maintain. I replaced the previous projects list to
 - **2026 commits (Jan 1, 2026 — present):** 375
 
 <p align="center">
-  <!-- Animated contribution snake (auto-updates) -->
+  <!-- Reliable GitHub contributions graph (official SVG) -->
+  <img src="https://github.com/users/Sameer-0904/contributions" alt="Contributions graph" />
+</p>
+
+<p align="center">
+  <!-- Optional animated snake (generator); kept as a fallback. If it doesn't load, the contributions graph above is the reliable source. -->
   <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Sameer-0904&theme=github" alt="contribution-snake" />
 </p>
 
+### Year goals (progress)
+- [x] Project skeletons created
+- [x] RAG pipeline experiments
+- [x] Orchestration templates and CI examples
+- [x] Containerized deployment examples
+
 ### LeetCode
 <p align="center">
-  <!-- LeetCode dynamic card (third-party) -->
   <a href="https://leetcode.com/u/Sameer0904/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Sameer0904?theme=dark" alt="LeetCode stats" />
   </a>
@@ -89,6 +99,12 @@ Below are two main projects I maintain. I replaced the previous projects list to
   <a href="https://www.geeksforgeeks.org/profile/sameerprajjurt" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-green?style=for-the-badge&logo=geekforgeeks" alt="GfG Profile" />
   </a>
+</p>
+
+<p align="center"><em>Note:</em> GeeksforGeeks does not provide an official public API for profile stats. If you want numeric fields (problems solved, rank), I can either:
+
+- add them manually if you paste the numbers, or
+- attempt a programmatic fetch (web-scraping) and update them automatically — scraping can break if GfG changes their site layout.
 </p>
 
 ---
@@ -107,3 +123,6 @@ Below are two main projects I maintain. I replaced the previous projects list to
   </a>
 </p>
 
+---
+
+<p align="center">Made with ❤️ — if you want this README further customized (different animations, colors, or additional projects), tell me which style and I'll apply it.</p>
