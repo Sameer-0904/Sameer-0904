@@ -67,14 +67,34 @@ Below are two main projects I maintain. I replaced the previous projects list to
 
 ---
 
-## 📈 Live Profile & Metrics
+## 📈 2026 Contributions & Coding Profiles
+
+- **2026 commits (Jan 1, 2026 — present):** 375
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-0904&show_icons=true&theme=dark" alt="Sameer GitHub stats" />
+  <!-- Animated contribution snake (auto-updates) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=Sameer-0904&theme=github" alt="contribution-snake" />
 </p>
 
+### Year goals (progress)
+- [x] Project skeletons created
+- [x] RAG pipeline experiments
+- [x] Orchestration templates and CI examples
+- [x] Containerized deployment examples
+
+### LeetCode
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-0904&theme=dark" alt="streak" />
+  <!-- LeetCode dynamic card (third-party) -->
+  <a href="https://leetcode.com/u/Sameer0904/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Sameer0904?theme=dark" alt="LeetCode stats" />
+  </a>
+</p>
+
+### GeeksforGeeks
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/sameerprajjurt" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-green?style=for-the-badge&logo=geekforgeeks" alt="GfG Profile" />
+  </a>
 </p>
 
 ---
